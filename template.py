@@ -1,6 +1,5 @@
 #PLEASE WRITE THE GITHUB URL BELOW!
-https://github.com/YASICJUNWOO/scikitlearn.git
-#
+#https://github.com/YASICJUNWOO/scikitlearn.git
 
 import sys
 import pandas as pd
